@@ -23,7 +23,7 @@ talkmap_link             : false
 # Site Author
 author:
   name             : "María Pía Santibáñez"
-  avatar           : "/images/profile.jpg"   # Add a photo named profile.jpg to the /images/ folder
+  avatar           : "/images/profile.jpeg"   # Add a photo named profile.jpg to the /images/ folder
   bio              : "Applied microeconomist. PhD Candidate in Economics, University of Chile. Research on child well-being, family background, labor economics, and economic history."
   location         : "Santiago, Chile"
   employer         :
