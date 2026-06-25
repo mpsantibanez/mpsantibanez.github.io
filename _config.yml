@@ -19,6 +19,7 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
 talkmap_link             : false
+minimal_mistakes_skin    : "mint"
 
 # Site Author
 author:
