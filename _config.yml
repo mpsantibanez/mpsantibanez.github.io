@@ -19,12 +19,21 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
 talkmap_link             : false
-minimal_mistakes_skin    : "mint"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "mint"
+
+author:
+  name: "María Pía Santibáñez"
+  avatar: "/images/profile.jpg"
+  bio: "Applied microeconomist. PhD Candidate in Economics, University of Chile. Research on child well-being, family background, labor economics, and economic history."
+  location: "Santiago, Chile"
+  email: "marsantiba@fen.uchile.cl"
+  linkedin: "maría-pía-santibáñez-g-6b3a7234"
 
 # Site Author
 author:
   name             : "María Pía Santibáñez"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Applied microeconomist. PhD Candidate in Economics, University of Chile. Research on child well-being, family background, labor economics, and economic history."
   location         : "Santiago, Chile"
   employer         :
