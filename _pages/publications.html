@@ -1,36 +1,24 @@
 ---
-layout: archive
-title: "Publications"
+layout: single
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Working Papers</h2>
 
-{% include base_path %}
+<p>
+  <strong>The Intergenerational Transmission of Crime: The Role of Parental Criminal Behavior</strong><br>
+  <em>Working Paper, 2026</em>
+</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<p>
+  This paper examines the intergenerational transmission of criminal behavior in a developing economy.
+  Using a novel administrative dataset covering the full birth cohort of children born in Chile in 2010,
+  I estimate the association between parental contact with the justice system and adolescent offending
+  through a Linear Probability Model with school and commune fixed effects. I document four dimensions
+  of heterogeneity: offense severity, timing of exposure (strongest at ages 11–14), gender and parental
+  structure, and offense type. Parental incarceration is associated with offending rates approximately
+  500% above the control mean. The results suggest that intergenerational crime transmission is
+  concentrated among specific high-risk family profiles.
+</p>
