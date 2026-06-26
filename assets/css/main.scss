@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Custom overrides */
+.page__footer {
+  padding: 0.5em 0 !important;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  padding: 0.3em 0 !important;
+}
