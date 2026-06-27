@@ -12,4 +12,4 @@ I am an applied microeconomist interested in child well-being, family background
 
 I am a 4th year PhD student in Economics at the [University of Chile](https://www.fen.uchile.cl/). Before my PhD, I received a Master of Arts in Economic Policy from Boston University and a B.Sc. in Business and Economics from Universidad Técnica Federico Santa María.
 
-I am based in Santiago, Chile. Feel free to reach out at [marsantiba@fen.uchile.cl](mailto:marsantiba@fen.uchile.cl).
+Feel free to reach out at [marsantiba@fen.uchile.cl](mailto:marsantiba@fen.uchile.cl).
