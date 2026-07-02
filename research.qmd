@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### The Intergenerational Transmission of Criminal Behavior: Evidence from Chilean Administrative Data
+
+**Status:** PhD thesis chapter / Working paper
+
+This paper examines the intergenerational transmission of criminal behavior in a developing economy. Using a novel administrative dataset covering the full birth cohort of children born in Chile in 2010, I estimate the association between parental contact with the justice system and adolescent offending through a Linear Probability Model with school and commune fixed effects. I document four dimensions of heterogeneity: offense severity, timing of exposure (strongest at ages 11–14), gender and parental structure, and offense type. Parental incarceration is associated with offending rates approximately 500% above the control mean. The results suggest that intergenerational crime transmission is concentrated among specific high-risk family profiles.
+
+<!-- Add link when ready: [Draft PDF](files/intergenerational-crime.pdf) -->
+
+## Work in Progress
+
+
+### In progress :)

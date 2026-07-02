@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+You can download my CV here: [Download CV](files/cv.pdf).
+
+<object data="files/cv.pdf" type="application/pdf" width="100%" height="800px">
+  <p>
+    If the PDF does not display, you can
+    <a href="files/cv.pdf">download it here</a>.
+  </p>
+</object>
