@@ -16,5 +16,8 @@ Any parental reported-offense history is positively associated with adolescent j
 
 ## Work in Progress
 
+### Parental Sanctions and Children’s Outcomes: Evidence from Prosecutorial Assignment
 
-### In progress :)
+**Status:** Work in progress
+
+This project studies how criminal cases involving a mother or father affect their children’s educational and social outcomes. In Chile, cases are allocated to prosecutors within local offices according to duty schedules, offense specialization, and workload-balancing rules. The empirical design examines whether, within narrowly defined assignment cells, these rules generate conditionally exogenous exposure to prosecutors who differ in the severity of the penalties they request, and whether this variation shifts final case outcomes, including acquittal and the type and severity of sanctions imposed. Outcomes include school dropout, grade repetition, academic performance, adolescent pregnancy, and subsequent justice-system contact among children younger than 18.
