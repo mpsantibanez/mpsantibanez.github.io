@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-You can download my CV here: [Download CV](files/cv.pdf).
-
 <object class="cv-embed" data="files/cv.pdf" type="application/pdf">
   <p>
     If the PDF does not display, you can

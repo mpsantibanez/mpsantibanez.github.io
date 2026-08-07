@@ -1,16 +1,22 @@
 ---
 title: "María Pía Santibáñez"
+pagetitle: "María Pía Santibáñez"
+title-prefix: ""
 ---
 
 ::: {.profile-grid}
 ::: {.profile-text}
 ## PhD Candidate in Economics
 
-I am a fourth-year PhD student in Economics at the University of Chile. Before my PhD, I received an M.A. in Economic Policy from Boston University and a B.A. in Business and Economics from Universidad Técnica Federico Santa María.
+I am a fourth-year PhD student in Economics at the Universidad de Chile.
 
-My research interests are in applied microeconomics, labor economics, development economics, and economic history.
+My research interest lies at the intersection of applied microeconomics, labor economics, development economics and Economic History. I am particularly interested in understanding how family environments, public institutions, and social disadvantage influence children’s development and long-term outcomes.
 
-My current research examines the relationship between parental contact with the justice system and adolescent offending in Chile, as part of a broader agenda on children’s life trajectories and intergenerational disadvantage.
+Before beginning my PhD, I studied at Boston University and Universidad Técnica Federico Santa María.
+
+My current research agenda examines children’s life trajectories and the mechanisms through which economic and social disadvantages are transmitted across generations.
+
+You can download my latest Curriculum Vitae [here](files/cv.pdf).
 
 Feel free to reach out at [marsantiba@fen.uchile.cl](mailto:marsantiba@fen.uchile.cl).
 :::
