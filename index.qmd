@@ -1,6 +1,6 @@
 ---
-title: "María Pía Santibáñez"
-pagetitle: "María Pía Santibáñez"
+title: "María Pía Santibáñez G."
+pagetitle: "María Pía Santibáñez G."
 title-prefix: ""
 ---
 

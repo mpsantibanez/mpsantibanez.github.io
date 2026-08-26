@@ -6,8 +6,6 @@ title: "Research"
 
 ### Intergenerational Associations in Reported Offending: The Role of Parental Justice-System Contact
 
-**Status:** PhD thesis chapter / Working paper
-
 **Draft available upon request.**
 
 This study examines intergenerational associations in reported offending in Chile, linking administrative records for the 2010 birth cohort to parental justice-system and school records. The sample comprises adolescents with exactly one registered mother and one registered father; the outcome equals one if the adolescent is named as an alleged offender between January 2024 and March 2025, after reaching the minimum age of criminal responsibility. Parental histories are measured through the day before the child's 14th birthday.
@@ -19,7 +17,5 @@ Any parental reported-offense history is positively associated with adolescent j
 ## Work in Progress
 
 ### Parental Sanctions and Children’s Outcomes: Evidence from Prosecutorial Assignment
-
-**Status:** Work in progress
 
 This project studies how criminal cases involving a mother or father affect their children’s educational and social outcomes. In Chile, cases are allocated to prosecutors within local offices according to duty schedules, offense specialization, and workload-balancing rules. The empirical design examines whether, within narrowly defined assignment cells, these rules generate conditionally exogenous exposure to prosecutors who differ in the severity of the penalties they request, and whether this variation shifts final case outcomes, including acquittal and the type and severity of sanctions imposed. Outcomes include school dropout, grade repetition, academic performance, adolescent pregnancy, and subsequent justice-system contact among children younger than 18.

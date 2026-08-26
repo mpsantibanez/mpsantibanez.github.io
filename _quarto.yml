@@ -5,7 +5,7 @@ project:
 website:
   title: "María Santibáñez"
   page-footer:
-    center: "© 2026 María Pía Santibáñez"
+    center: "© 2026 María Pía Santibáñez G."
   navbar:
     title: false
     left:
@@ -24,3 +24,4 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    anchor-sections: false
