@@ -2,13 +2,6 @@
 title: "Teaching"
 ---
 
-## University of Chile
-
-**Teaching Assistant — Topics in Economic History (Graduate)**  
-Faculty of Economics and Business (FEN)\
-Master's in Economic Analysis (MAE) · July–November 2026  
-Instructor: Prof. Ariadna Jou
-
 ## Universidad Técnica Federico Santa María
 
 **Instructor, Department of Business & Economics** · 2019–Present\
@@ -22,6 +15,19 @@ Santiago and Valparaíso, Chile
 - Microeconomics II: 2019, 2020, 2021, 2022, 2023, 2024
 - Industrial Organization: Spring 2019
 
-I also serve as a thesis committee co-advisor for undergraduate students.
+### Thesis committees
+
+I have served as co-advisor for the following undergraduate theses:
+
+- **Camila Antonia Escandar Muñoz** — *Perfiles de demanda atípicos durante Recesiones Económicas en Estados Unidos. Un análisis basado en el LIPSTICK EFFECT.* December 27, 2024.
+- **José Alain Duardo Riquelme** — *UNA HERRAMIENTA PARA DETECTAR ANOMALÍAS COMPETITIVAS EN SUBASTAS.* December 26, 2024.
+- **Antun Nicolás Franelich Bascuñán** — *Análisis multisectorial en términos de innovación de la industria del cobre en Chile.* July 22, 2022.
 
 **Teaching recognition:** Named Best Professor 2022 by student vote, B.A. in Business & Economics, Campus Santiago-Vitacura.
+
+## University of Chile
+
+**Teaching Assistant — Topics in Economic History (Graduate)**  
+Faculty of Economics and Business (FEN)\
+Master's in Economic Analysis (MAE) · July–November 2026  
+Instructor: Prof. Ariadna Jou

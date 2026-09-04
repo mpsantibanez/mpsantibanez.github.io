@@ -10,7 +10,7 @@ title-prefix: ""
 
 I am a fourth-year PhD student in Economics at the Universidad de Chile.
 
-My research interest lies at the intersection of applied microeconomics, labor economics, development economics and Economic History. I am particularly interested in understanding how family environments, public institutions, and social disadvantage influence children’s development and long-term outcomes.
+My research interest lies at the intersection of Applied Microeconomics, Labor Economics, Development Economics and Economic History. I am particularly interested in understanding how family environments, public institutions, and social disadvantage influence children’s development and long-term outcomes.
 
 Before beginning my PhD, I studied at Boston University and Universidad Técnica Federico Santa María.
 
